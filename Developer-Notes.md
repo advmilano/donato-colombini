@@ -108,10 +108,11 @@ Questi sono i progetti da inserire all'interno della timeline / slideshow inizia
 9. [Cerro Green Village](./Monography.md#cerro-maggiore-via-di-vittorio-ang-via-iv-novembre)
 10. [Residenza Il Parco](./Monography.md#lainate-via-a-manzoni)
 
-### Materiale Richiesto
+### Materiale Imprescindibile
 
-- Date di fondazione dell Aziende
-- Supporti visivi anche di repertorio (immagini, ecc..)
+- Date di fondazione delle Aziende
+- Supporti visivi quali immagini, video, etc. (anche di repertorio)
+- Date di realizzazione dei Progetti
 
 ## Wireframe
 
