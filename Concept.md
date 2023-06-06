@@ -110,9 +110,13 @@ Questi sono i progetti da inserire all'interno della timeline / slideshow inizia
 
 ### Materiale Imprescindibile
 
+- Progetti Aggiornati rispetto al 2023
 - Date di fondazione delle Aziende
-- Supporti visivi quali immagini, video, etc. (anche di repertorio)
 - Date di realizzazione dei Progetti
+
+### A Carico Nostro
+
+<!-- - Supporti visivi quali immagini, video, etc. (anche di repertorio) -->
 
 ## Wireframe
 

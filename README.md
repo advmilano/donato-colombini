@@ -2,9 +2,9 @@
 
 Progetto per sito donatocolombini.it
 
-## [Monografia](/Monography.md)
+## [Concept Nuovo Sito](/Concept.md)
 
-## [Note Dello Sviluppatore](/Developer-Notes.md)
+## [Monografia](/Monography.md)
 
 ## Wireframe
 
