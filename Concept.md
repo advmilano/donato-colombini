@@ -116,7 +116,11 @@ Questi sono i progetti da inserire all'interno della timeline / slideshow inizia
 
 ### A Carico Nostro
 
-<!-- - Supporti visivi quali immagini, video, etc. (anche di repertorio) -->
+Ricerca Materiale disponibile sul Web
+
+- Immagini
+- Siti web Aziende del Gruppo
+- Notizie su alcuni progetti
 
 ## Wireframe
 
