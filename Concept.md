@@ -111,8 +111,9 @@ Questi sono i progetti da inserire all'interno della timeline / slideshow inizia
 ### Materiale Imprescindibile
 
 - Progetti Aggiornati rispetto al 2023
-- Date di fondazione delle Aziende
-- Date di realizzazione dei Progetti
+- Date fondazione delle Aziende
+- Date realizzazione dei Progetti
+- Date eventi significativi nella vita del Dr. Architetto Colombini
 
 ### A Carico Nostro
 
