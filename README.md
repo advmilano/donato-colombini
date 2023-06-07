@@ -8,7 +8,7 @@ Progetto per sito donatocolombini.it
 
 ## Mappa Concettuale
 
-Si tratta di una schematizzazione puramente indicativa riguardante la navigazione fra le componenti del sito.
+Si tratta di una schematizzazione puramente indicativa riguardante la navigazione fra le varie pagine ed i componenti del sito.
 
 **Non Rispecchia** _in alcun modo un'eventuale proposta in termini stilistici._
 
