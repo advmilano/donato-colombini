@@ -83,9 +83,18 @@ Form Contatti
 
 ## Pietre Miliari Timeline
 
-### Progetti
-
 _**Nota**: I dati sono aggiornati alla monografia del 2013_
+
+### Date da Ricordare per Avvenimenti Personali
+
+- Laurea
+- Iscrizione al Registro Architetti di Lodi
+- Membro Commissione Ediliza di Milano (1987-1991)
+- Fondazione Fratello Mio ONLUS ()
+
+### Date Fondazioni Aziende del Gruppo
+
+### Progetti
 
 Questi sono i progetti da inserire all'interno della timeline / slideshow iniziale
 
@@ -123,13 +132,13 @@ Questi sono i progetti da inserire all'interno della timeline / slideshow inizia
 - Date realizzazione dei Progetti
 - Date eventi significativi nella vita del Dr. Architetto Colombini
 
-### A Carico Nostro
+#### A Carico ADVMilano
 
 Ricerca Materiale disponibile sul Web
 
 - Immagini
 - Siti web Aziende del Gruppo
-- Notizie su alcuni progetti
+- Notizie online sui progetti
 
 ### Navigazione della Mappa Concettuale
 
