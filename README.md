@@ -1,7 +1,5 @@
 # Donato Colombini
 
-Progetto per sito donatocolombini.it
-
 ## [Concept Nuovo Sito](/Concept.md)
 
 ## [Monografia](/Monography.md)

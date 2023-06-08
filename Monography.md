@@ -226,10 +226,11 @@ Dispone di un impianto a biogas da 1 Mw, alimentato con biomassa derivata da tri
 #### Ospedaletto Lodigiano, Lodi
 
 ![Ospedaletto Lodigiano](images/projects/ospedaletto-lodigiano.jpg)
-
-**_Proprietà:_** Arch. D. Colombini
-**_Impresa:_** Eurodomus Co. Srl
-**_Progettazione e direzione artistica:_** Arch. D. Colombini
+| Info | Dettaglio |
+|--- | --- |
+|**_Proprietà:_** |Arch. D. Colombini|
+|**_Impresa:_** |Eurodomus Co. Srl|
+|**_Progettazione e direzione artistica:_** |Arch. D. Colombini|
 
 ##### Corsi di Formazione
 
@@ -237,9 +238,11 @@ Il Gruppo Colombini organizza periodicamente corsi di formazione e aggiornamento
 
 #### Milano, Via Bergognone
 
-**_Proprietà:_** N/A
-**_Impresa:_** N/A
-**_Progettazione e direzione artistica:_** N/A
+| Info                                       | Dettaglio |
+| ------------------------------------------ | --------- |
+| **_Proprietà:_**                           | N/A       |
+| **_Impresa:_**                             | N/A       |
+| **_Progettazione e direzione artistica:_** | N/A       |
 
 ### Immobiliari
 
@@ -261,17 +264,21 @@ La memoria industrale diventa un valore aggiunto al progetto che, pur conservand
 
 Spazi verdi di connessione tra i singoli edifici, gallerie coperte con attività commerciali, servizi comuni, giardini pensili e parcheggi superficiali ed interrati garantiranno possibilità di una nuova qualità urbana ad un’ampia area attualmente abbandonata in una zona ormai limitrofa al centro urbano.
 
-**_Proprietà:_** Società Lombardini Srl in compartecipazione con Gruppo Cardani, Società Officina Creativa Srl in compartecipazione con Gruppo Martignoni.
-**_Progettazione:_** Arch. A. Castiglione, Arch. V. Cosmelli, Arch. L. Clavarino, Arch. M. Doerrie
-**_Supervisione:_** Arch. D. Colombini
+| Info                 | Dettaglio                                                                                                                                 |
+| -------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| **_Proprietà:_**     | Società Lombardini Srl in compartecipazione con Gruppo Cardani, Società Officina Creativa Srl in compartecipazione con Gruppo Martignoni. |
+| **_Progettazione:_** | Arch. A. Castiglione, Arch. V. Cosmelli, Arch. L. Clavarino, Arch. M. Doerrie                                                             |
+| **_Supervisione:_**  | Arch. D. Colombini                                                                                                                        |
 
 #### Lonate Pozzolo, Varese, Via Fiume
 
-**_Proprietà:_** Euromec Srl
-**_Impresa:_** Eurodomus Co. Srl
-**_Progettazione:_** Arch. D. Colombini, Arch. G. Bonelli
-**_Direzione Lavori:_** Studio Ass. Rivolta
-**_Appartamenti:_** 40
+| Info                    | Dettaglio                            |
+| ----------------------- | ------------------------------------ |
+| **_Proprietà:_**        | Euromec Srl                          |
+| **_Impresa:_**          | Eurodomus Co. Srl                    |
+| **_Progettazione:_**    | Arch. D. Colombini, Arch. G. Bonelli |
+| **_Direzione Lavori:_** | Studio Ass. Rivolta                  |
+| **_Appartamenti:_**     | 40                                   |
 
 #### Milano, Piazzale Biancamano 2
 
@@ -281,10 +288,12 @@ L’immobile è costituito da oltre 100 unità tra appartamenti ed uffici, oltre
 
 Si tratta di un edificio importante e significativo, situato di fronte all’Arena di Milano, che ha caratterizzato l’archittettura di un'epoca tenuto conto del periodo di costruzione risalente alla metà degli anni ‘50.
 
-**_Proprietà:_** Biancamano Srl
-**_Appartamenti:_** 94
-**_Negozi:_** 9
-**_Box:_** 33
+| Info                | Dettaglio      |
+| ------------------- | -------------- |
+| **_Proprietà:_**    | Biancamano Srl |
+| **_Appartamenti:_** | 94             |
+| **_Negozi:_**       | 9              |
+| **_Box:_**          | 33             |
 
 #### Punta Grò, Sirmione, Residenza Aquarius Sirmione
 
@@ -292,171 +301,222 @@ La Società Euromec ha rilevato il complesso turistico di Punta Grò, nei pressi
 
 Il progetto di rinnovamento pur conservando l’originaria struttura ha riportato a nuovo tutto il complesso con il massimo rispetto per l’ambiente.
 
-**_Proprietà:_** Euromec srl
-**_Impresa:_** Eurodomus Co Srl
-**_Unità Abitative:_** 31
+| Info                   | Dettaglio        |
+| ---------------------- | ---------------- |
+| **_Proprietà:_**       | Euromec srl      |
+| **_Impresa:_**         | Eurodomus Co Srl |
+| **_Unità Abitative:_** | 31               |
 
 #### Desio, Milano, Via Paganini
 
-**_Proprietà:_** Helios Srl
-**_Impresa:_** Coemi Srl
-**_Progettazione e Direzione Lavori:_** Arch. R. Baioni
-**_Appartamenti:_** 80
+| Info                                    | Dettaglio       |
+| --------------------------------------- | --------------- |
+| **_Proprietà:_**                        | Helios Srl      |
+| **_Impresa:_**                          | Coemi Srl       |
+| **_Progettazione e Direzione Lavori:_** | Arch. R. Baioni |
+| **_Appartamenti:_**                     | 80              |
 
 #### Milano, Via Bellerio
 
-**_Proprietà:_** Helios Srl
-**_Ristrutturazione:_** Arch. A. Castiglione, Arch. V. Cosmelli
-**_Supervisione:_** Arch. D. Colombini
-**_Appartamenti:_** 60
+| Info                    | Dettaglio                               |
+| ----------------------- | --------------------------------------- |
+| **_Proprietà:_**        | Helios Srl                              |
+| **_Ristrutturazione:_** | Arch. A. Castiglione, Arch. V. Cosmelli |
+| **_Supervisione:_**     | Arch. D. Colombini                      |
+| **_Appartamenti:_**     | 60                                      |
 
 #### Milano, Via Sassi
 
-**_Proprietà:_** Lombardini Srl
-**_Impresa:_** Eurodomus Co. Srl
-**_Ristrutturazione:_** Arch. A. Castiglione, Arch. V. Cosmelli
-**_Supervisione:_** Arch. D. Colombini
-**_Appartamenti:_** 16
-**_Posti auto:_** 18
+| Info                    | Dettaglio                               |
+| ----------------------- | --------------------------------------- |
+| **_Proprietà:_**        | Lombardini Srl                          |
+| **_Impresa:_**          | Eurodomus Co. Srl                       |
+| **_Ristrutturazione:_** | Arch. A. Castiglione, Arch. V. Cosmelli |
+| **_Supervisione:_**     | Arch. D. Colombini                      |
+| **_Appartamenti:_**     | 16                                      |
+| **_Posti auto:_**       | 18                                      |
 
 #### Milano, Via Cadolini, Ex Società Kores
 
-**_Proprietà:_** Lombardini Srl
-**_Impresa:_** Eurodomus Co. Srl
-**_Progettazione:_** Arch. D. Colombini, Arch. A. Castiglione
-**_Loft:_** 35
+| Info                 | Dettaglio                                |
+| -------------------- | ---------------------------------------- |
+| **_Proprietà:_**     | Lombardini Srl                           |
+| **_Impresa:_**       | Eurodomus Co. Srl                        |
+| **_Progettazione:_** | Arch. D. Colombini, Arch. A. Castiglione |
+| **_Loft:_**          | 35                                       |
 
 #### Milano, Corso di Porta Vercellina angolo Via G.B. Vico
 
-**_Proprietà:_** Lombardini Srl
-**_Ristrutturazione:_** Arch. A. Castiglione, Arch. Vasconi
-**_Unità Abitative:_** 25
+| Info                    | Dettaglio                           |
+| ----------------------- | ----------------------------------- |
+| **_Proprietà:_**        | Lombardini Srl                      |
+| **_Ristrutturazione:_** | Arch. A. Castiglione, Arch. Vasconi |
+| **_Unità Abitative:_**  | 25                                  |
 
 ### Impresa
 
 #### San Donato Milanese, Via Spilamberto
 
-**_Proprietà:_** G. Edil Srl
-**_Impresa:_** G. Edil Srl
-**_Progettazione:_** A. S. Progetti di Arch. D. Colombini, Ing. D. Rubinetti, Ing. G. Giusberti
-**_Appartamenti:_** 95
+| Info                 | Dettaglio                                                                  |
+| -------------------- | -------------------------------------------------------------------------- |
+| **_Proprietà:_**     | G. Edil Srl                                                                |
+| **_Impresa:_**       | G. Edil Srl                                                                |
+| **_Progettazione:_** | A. S. Progetti di Arch. D. Colombini, Ing. D. Rubinetti, Ing. G. Giusberti |
+| **_Appartamenti:_**  | 95                                                                         |
 
 #### Milano, Via W. Ferrari
 
-**_Proprietà:_** Immobiliare Edil Beta
-**_Impresa:_** G. Edil Srl
-**_Appartamenti:_** 50
+| Info                | Dettaglio             |
+| ------------------- | --------------------- |
+| **_Proprietà:_**    | Immobiliare Edil Beta |
+| **_Impresa:_**      | G. Edil Srl           |
+| **_Appartamenti:_** | 50                    |
 
 #### Gallarate, Varese
 
-**_Proprietà:_** Europrogest Srl
-**_Impresa:_** G.Edil Costruzioni Srl
-**_Progettazione:_** Arch. Introini
-**_Appartamenti:_** 25
+| Info                 | Dettaglio              |
+| -------------------- | ---------------------- |
+| **_Proprietà:_**     | Europrogest Srl        |
+| **_Impresa:_**       | G.Edil Costruzioni Srl |
+| **_Progettazione:_** | Arch. Introini         |
+| **_Appartamenti:_**  | 25                     |
 
 #### Milano, Via Ulisse Salis
 
-**_Proprietà:_** G. Edil Srl
-**_Impresa:_** G. Edil Srl
-**_Progettazione:_** A.S. Progetti di Arch. D. Colombini, Ing. D. Rubinetti, Ing. G. Giusberti
-**_Appartamenti:_** 30
+| Info                 | Dettaglio                                                                 |
+| -------------------- | ------------------------------------------------------------------------- |
+| **_Proprietà:_**     | G. Edil Srl                                                               |
+| **_Impresa:_**       | G. Edil Srl                                                               |
+| **_Progettazione:_** | A.S. Progetti di Arch. D. Colombini, Ing. D. Rubinetti, Ing. G. Giusberti |
+| **_Appartamenti:_**  | 30                                                                        |
 
 #### Muggiano, Milano, Via Lucera
 
-**_Proprietà:_** Eurodomus Co. Srl
-**_Impresa:_** Eurodomus Co. Srl
-**_Progettazione:_** Arch. Donato Colombini
-**_Appartamenti:_** N/A
+| Info                 | Dettaglio              |
+| -------------------- | ---------------------- |
+| **_Proprietà:_**     | Eurodomus Co. Srl      |
+| **_Impresa:_**       | Eurodomus Co. Srl      |
+| **_Progettazione:_** | Arch. Donato Colombini |
+| **_Appartamenti:_**  | N/A                    |
 
 #### Ponte Sesto, Rozzano, Milano, Via Massimo D’Azeglio
 
-**_Proprietà:_** C.E.C.L. Aler
-**_Impresa:_** Eurodomus Co. Srl
-**_Progettazione:_** Arch. Cimino
-**_Appartamenti:_** 70
+| Info                 | Dettaglio         |
+| -------------------- | ----------------- |
+| **_Proprietà:_**     | C.E.C.L. Aler     |
+| **_Impresa:_**       | Eurodomus Co. Srl |
+| **_Progettazione:_** | Arch. Cimino      |
+| **_Appartamenti:_**  | 70                |
 
 #### Milano, Via Adriano
 
-**_Proprietà:_** Coop. La Nuova Europa, Coop. Corcab, Coop. ATM Sarca, Coop. Icaro
-**_Impresa:_** Eurodomus Co. Srl
-**_Progettazione:_** Arch. Benevento, Arch. Corda, Arch. D’Alfonso, Arch. Giobbe, Arch. Memoli
-**_Appartamenti:_** 180
+| Info                 | Dettaglio                                                                 |
+| -------------------- | ------------------------------------------------------------------------- |
+| **_Proprietà:_**     | Coop. La Nuova Europa, Coop. Corcab, Coop. ATM Sarca, Coop. Icaro         |
+| **_Impresa:_**       | Eurodomus Co. Srl                                                         |
+| **_Progettazione:_** | Arch. Benevento, Arch. Corda, Arch. D’Alfonso, Arch. Giobbe, Arch. Memoli |
+| **_Appartamenti:_**  | 180                                                                       |
 
 #### Milano Rogoredo Via Cassinari
 
-**_Proprietà:_** Italia Soc. Coop.
-**_Impresa:_** Eurodomus Co. Srl
-**_Progettazione:_** Arch. Giobbe
-**_Appartamenti:_** 50
+| Info                 | Dettaglio         |
+| -------------------- | ----------------- |
+| **_Proprietà:_**     | Italia Soc. Coop. |
+| **_Impresa:_**       | Eurodomus Co. Srl |
+| **_Progettazione:_** | Arch. Giobbe      |
+| **_Appartamenti:_**  | 50                |
 
 #### San Donato Milanese, Milano, Via Gramsci
 
-**_Proprietà:_** Coop. Tigullio
-**_Impresa:_** Eurodomus Co. Srl
-**_Progettazione:_** Ing. B. Zanini
-**_Appartamenti:_** 20
+| Info                 | Dettaglio         |
+| -------------------- | ----------------- |
+| **_Proprietà:_**     | Coop. Tigullio    |
+| **_Impresa:_**       | Eurodomus Co. Srl |
+| **_Progettazione:_** | Ing. B. Zanini    |
+| **_Appartamenti:_**  | 20                |
 
 #### Sedriano, Milano Viale Donatori di Sangue
 
-**_Proprietà:_** Coop. Solaris
-**_Impresa:_** Eurodomus Co. Srl
-**_Progettazione:_** Arch. D. Colombini, Arch. G. Bonelli
-**_Appartamenti:_** 41
+| Info                 | Dettaglio                            |
+| -------------------- | ------------------------------------ |
+| **_Proprietà:_**     | Coop. Solaris                        |
+| **_Impresa:_**       | Eurodomus Co. Srl                    |
+| **_Progettazione:_** | Arch. D. Colombini, Arch. G. Bonelli |
+| **_Appartamenti:_**  | 41                                   |
 
 #### Milano, Via Palanzone 16/24
 
-**_Proprietà:_** Coop. Edil. “L’Adda”
-**_Impresa:_** Eurodomus Co. Srl
-**_Progettazione:_** Arch. M. Santagostino
-**_Direzione Lavori:_** Ing. F. Guizzetti, Ing. R. Polovina
-**_Appartamenti:_** 240
+| Info                    | Dettaglio                           |
+| ----------------------- | ----------------------------------- |
+| **_Proprietà:_**        | Coop. Edil. “L’Adda”                |
+| **_Impresa:_**          | Eurodomus Co. Srl                   |
+| **_Progettazione:_**    | Arch. M. Santagostino               |
+| **_Direzione Lavori:_** | Ing. F. Guizzetti, Ing. R. Polovina |
+| **_Appartamenti:_**     | 240                                 |
 
 #### Muggiano, Milano, Via Mosca
 
-**_Proprietà:_** Coop. La Rosa / Coop. Aler
-**_Impresa:_** Eurodomus Co. Srl
-**_Progettazione:_** Arch. D. Colombini, Arch. G. Bonelli, Arch. F. Vitali **_Appartamenti:_** 110
+| Info                 | Dettaglio                                             |
+| -------------------- | ----------------------------------------------------- | --- | ------------------- | --- |
+| **_Proprietà:_**     | Coop. La Rosa / Coop. Aler                            |
+| **_Impresa:_**       | Eurodomus Co. Srl                                     |
+| **_Progettazione:_** | Arch. D. Colombini, Arch. G. Bonelli, Arch. F. Vitali |     | **_Appartamenti:_** | 110 |
 
 #### Milano, Via Tortona
 
-**_Proprietà:_** Arch. Donato Colombini SpA
-**_Impresa:_** Eurodomus Co Srl
-**_Progettazione:_** Arch. D. Colombini, Arch. V. Castiglione
+| Info                 | Dettaglio                                |
+| -------------------- | ---------------------------------------- |
+| **_Proprietà:_**     | Arch. Donato Colombini SpA               |
+| **_Impresa:_**       | Eurodomus Co Srl                         |
+| **_Progettazione:_** | Arch. D. Colombini, Arch. V. Castiglione |
 
 #### Milano, Via Alzaia Naviglio Grande
 
-**_Proprietà:_** Arch. Donato Colombini SpA
-**_Impresa:_** Eurodomus Co Srl
-**_Progettazione:_** Arch. D. Colombini
+| Info                 | Dettaglio                  |
+| -------------------- | -------------------------- |
+| **_Proprietà:_**     | Arch. Donato Colombini SpA |
+| **_Impresa:_**       | Eurodomus Co Srl           |
+| **_Progettazione:_** | Arch. D. Colombini         |
 
 #### Milano, Via Maspero
 
-**_Proprietà:_** Cooperativa Teabaldo
-**_Impresa:_** Eurodomus Costruzioni Co Srl
-**_Progettazione_** Arch. D. Colombini, Arch. Valentino Piazzi
+| Info                | Dettaglio                                  |
+| ------------------- | ------------------------------------------ |
+| **_Proprietà:_**    | Cooperativa Teabaldo                       |
+| **_Impresa:_**      | Eurodomus Costruzioni Co Srl               |
+| **_Progettazione_** | Arch. D. Colombini, Arch. Valentino Piazzi |
 
 #### Milano, Via Ornato
 
-**_Proprietà:_** Immobiliare Ornato Srl
-**_Impresa:_** Eurodomus Costruzioni Co. Srl
-**_Progettazione_** Arch. Fantini, Arch. Ferrari
-**_Unità Abitative:_** 120
+| Info                   | Dettaglio                     |
+| ---------------------- | ----------------------------- |
+| **_Proprietà:_**       | Immobiliare Ornato Srl        |
+| **_Impresa:_**         | Eurodomus Costruzioni Co. Srl |
+| **_Progettazione_**    | Arch. Fantini, Arch. Ferrari  |
+| **_Unità Abitative:_** | 120                           |
 
 #### Milano, Muggiano Via Monti
 
-**_Proprietà:_** Eurodomus Costruzioni Co. Srl
-**_Impresa:_** Eurodomus Costruzioni Co. Srl
-**_Progettazione_** Arch. D. Colombini
-**_Appartamenti:_** 50
+| Info                | Dettaglio                     |
+| ------------------- | ----------------------------- |
+| **_Proprietà:_**    | Eurodomus Costruzioni Co. Srl |
+| **_Impresa:_**      | Eurodomus Costruzioni Co. Srl |
+| **_Progettazione_** | Arch. D. Colombini            |
+| **_Appartamenti:_** | 50                            |
+
+| Info | Dettaglio |
+| ---- | --------- |
 
 #### Milano, Via Santander
 
 ![Via Santander](images/projects/via-santander.jpeg)
 
-**_Proprietà:_** Euromec Srl
-**_Impresa:_** Eurodomus Costruzioni Co. Srl
-**_Progettazione_** Studio STG, Milano
-**_Appartamenti:_** 50
+| Info                | Dettaglio                     |
+| ------------------- | ----------------------------- |
+| **_Proprietà:_**    | Euromec Srl                   |
+| **_Impresa:_**      | Eurodomus Costruzioni Co. Srl |
+| **_Progettazione_** | Studio STG, Milano            |
+| **_Appartamenti:_** | 50                            |
 
 ### Commercializzazione
 
@@ -471,10 +531,12 @@ innovative per favorire vivibilità, qualità degli spazi e risparmio energetico
 
 La particolare concezione della costruzione e dell’allestimento degli edifici è stata studiata per creare un ambiente più salubre adottando materiali e tecnologie che rispettino l’ambiente e minimizzino gli sprechi di energia.
 
-**_Proprietà:_** Mangiavacchi Pedercini SpA
-**_Impresa:_** Mangiavacchi Pedercini SpA
-**_Progettazione:_** Studio Arch.Massetti
-**_Appartamenti:_** 70
+| Info                 | Dettaglio                  |
+| -------------------- | -------------------------- |
+| **_Proprietà:_**     | Mangiavacchi Pedercini SpA |
+| **_Impresa:_**       | Mangiavacchi Pedercini SpA |
+| **_Progettazione:_** | Studio Arch.Massetti       |
+| **_Appartamenti:_**  | 70                         |
 
 #### Cusago, Via Baggio
 
@@ -489,10 +551,12 @@ le vecchie corti rurali presenti sul territorio di Cusago.
 
 Completano il quadro alberature in linea, macchie boschive e arbustive, radure e al centro un bellissimo specchio d'acqua che ha funzione paesaggistica e ambientale. 90 splendidi appartamenti, tutti diversi tra loro: l’unicità, infatti, è un alto valore aggiunto di questa iniziativa.
 
-**_Proprietà:_** Immobiliare Visconti Srl
-**_Impresa:_** Soc. CO.E.RI Costruzioni Srl
-**_Progettazione:_** Studio Linea Associati
-**_Appartamenti:_** 47
+| Info | Dettaglio            |
+| ---- | -------------------- | --- | ---------------------------- | --- |
+|      | **_Proprietà:_**     |     | Immobiliare Visconti Srl     |     |
+|      | **_Impresa:_**       |     | Soc. CO.E.RI Costruzioni Srl |     |
+|      | **_Progettazione:_** |     | Studio Linea Associati       |     |
+|      | **_Appartamenti:_**  |     | 47                           |     |
 
 #### Lainate, Via A. Manzoni
 
@@ -506,10 +570,12 @@ Il progetto prevede, per il primo lotto, la realizzazione di quattro edifici res
 
 Il tutto per garantire uno spazio di benessere ai residenti.
 
-**_Proprietà:_** Tielle Costruzioni Srl
-**_Impresa:_** Borio Mangiarotti
-**_Progettazione:_** Progettisti Associati-Architettura e Infrastruttura Arch. Sillano
-**_Appartamenti:_** 70
+| Info                 | Dettaglio                                                         |
+| -------------------- | ----------------------------------------------------------------- |
+| **_Proprietà:_**     | Tielle Costruzioni Srl                                            |
+| **_Impresa:_**       | Borio Mangiarotti                                                 |
+| **_Progettazione:_** | Progettisti Associati-Architettura e Infrastruttura Arch. Sillano |
+| **_Appartamenti:_**  | 70                                                                |
 
 #### Rogoredo Montecity, Milano
 
@@ -521,11 +587,13 @@ L’edificio è ubicato lungo la promenade pedonale che riqualifica l’impianto
 
 Qualità, eleganza e funzionalità abiteranno i vostri spazi.
 
-**_Proprietà:_** Varie Cooperative
-**_Impresa:_** Eurodomus Co Srl
-**_Progettazione:_** P.I.I. Arch. N. Foster
-**_Edifici:_** Arch. A. Giobbe, Arch. P. Caputo
-**_Appartamenti:_** 260
+| Info                 | Dettaglio                        |
+| -------------------- | -------------------------------- |
+| **_Proprietà:_**     | Varie Cooperative                |
+| **_Impresa:_**       | Eurodomus Co Srl                 |
+| **_Progettazione:_** | P.I.I. Arch. N. Foster           |
+| **_Edifici:_**       | Arch. A. Giobbe, Arch. P. Caputo |
+| **_Appartamenti:_**  | 260                              |
 
 #### Milano, Via Murialdo angolo Via Lorenteggio
 
@@ -539,10 +607,12 @@ La nuova residenza “I giardini di via Inganni” è situata in una tranquilla 
 
 La zona è ottimamente servita da numerosi mezzi di trasporto, tra cui la linea 1 della Metropolitana, fermata Inganni, e la futura linea 4 che arriverà presso la vicinissima stazione di San Cristoforo FS.
 
-**_Proprietà:_** Parcheggi Direzionali Srl
-**_Impresa:_** Borio Mangiarotti
-**_Progettazione:_** Progettisti Associati-Architettura e Infrastrutture, Arch. Sillano
-**_Appartamenti:_** 31
+| Info                 | Dettaglio                                                          |
+| -------------------- | ------------------------------------------------------------------ |
+| **_Proprietà:_**     | Parcheggi Direzionali Srl                                          |
+| **_Impresa:_**       | Borio Mangiarotti                                                  |
+| **_Progettazione:_** | Progettisti Associati-Architettura e Infrastrutture, Arch. Sillano |
+| **_Appartamenti:_**  | 31                                                                 |
 
 #### Milano, Viale Cassala 55
 
@@ -552,12 +622,14 @@ La zona è ottimamente servita da numerosi mezzi di trasporto, tra cui la linea 
 
 La filosofia è quella di garantire il benessere, alti standard di efficienza e creare degli alloggi capaci di interpretare differenti stili di abitare utilizzando materiali e soluzioni tecnologiche di altissimo livello in grado di ottenere la massima classificazione energetica e di migliorare la vivibilità delle abitazioni sempre prestando la massima attenzione alle esigenze dell’individuo.
 
-**_Proprietà:_** Soc. Malco Srl
-**_Impresa:_** Mangiavacchi Pedercini SpA
-**_Progettazione:_** Studio Arch. Degli Esposti
-**_Appartamenti:_** 26
+| Info                 | Dettaglio                  |
+| -------------------- | -------------------------- |
+| **_Proprietà:_**     | Soc. Malco Srl             |
+| **_Impresa:_**       | Mangiavacchi Pedercini SpA |
+| **_Progettazione:_** | Studio Arch. Degli Esposti |
+| **_Appartamenti:_**  | 26                         |
 
-#### Milano, Viale Caldara 38
+<!-- #### Milano, Viale Caldara 38
 
 NB: _Da Non Inserire_
 
@@ -565,10 +637,12 @@ A pochi minuti da Piazza Duomo, nel centro storico della città, situato fra Pia
 
 Una rara opportunità per chi desidera vivere e godere di tutti i privilegi e le comodità dell’abitare nei pressi del centro della città, comodamente servito da numerosi mezzi pubblici di superficie e dalla metropolitana.
 
-**_Proprietà:_** GIUMA Srl
-**_Impresa:_** GIUMA Srl
-**_Progettazione:_** Studio Arch. Belgioioso
-**_Appartamenti:_** 28
+| Info                    | Dettaglio                           |
+| ----------------------- | ----------------------------------- |
+|**_Proprietà:_**| GIUMA Srl|
+|**_Impresa:_** |GIUMA Srl|
+|**_Progettazione:_**| Studio Arch. Belgioioso|
+|**_Appartamenti:_**| 28| -->
 
 #### Milano, Via Cena 23
 
@@ -578,10 +652,12 @@ Si tratta di un edificio di nuova realizzazione che sorge a Milano in zona Porta
 
 La grande attenzione posta nella scelta dei materiali di costruzione e del sistema di riscaldamento e condizionamento, l’alto grado di isolamento acustico, le grandi superfici a terrazzo per vivere la casa anche all’aperto rappresentano oggi un investimento, e certo non soltanto dal punto di vista economico.
 
-**_Proprietà:_** N/A
-**_Impresa:_** Borio Mangiarotti
-**_Progettazione:_** Studio Arch. Anna Giorgi & Partners
-**_Appartamenti:_** N/A
+| Info                 | Dettaglio                           |
+| -------------------- | ----------------------------------- |
+| **_Proprietà:_**     | N/A                                 |
+| **_Impresa:_**       | Borio Mangiarotti                   |
+| **_Progettazione:_** | Studio Arch. Anna Giorgi & Partners |
+| **_Appartamenti:_**  | N/A                                 |
 
 #### Milano, via Zuretti 55
 
@@ -591,10 +667,12 @@ Le Soc. Borio Mangiarotti e Botta Spa in collaborazione con lo Studio Architettu
 
 Il progetto prevede la realizzazione di un edificio con uno stile architettonico moderno e innovativo, certificato in classe A, secondo le normative vigenti in materia di certificazione energetica.
 
-**_Proprietà:_** Borio Mangiarotti
-**_Impresa:_** Borio Mangiarotti
-**_Progettazione:_** Studio M2P Associati
-**_Appartamenti:_** 26
+| Info                 | Dettaglio            |
+| -------------------- | -------------------- |
+| **_Proprietà:_**     | Borio Mangiarotti    |
+| **_Impresa:_**       | Borio Mangiarotti    |
+| **_Progettazione:_** | Studio M2P Associati |
+| **_Appartamenti:_**  | 26                   |
 
 #### San Donato Milanese, Via Piave angolo Via Greppi
 
@@ -606,10 +684,12 @@ I vetri ed i serramenti hanno caratteristiche tali da soddisfare le esigenze di 
 
 I serramenti sono in legno e sono dotati di zanzariere.
 
-**_Proprietà:_** DASCAL Srl
-**_Impresa:_** CO E MI
-**_Progettazione:_** Desmos
-**_Appartamenti:_** 110
+| Info                 | Dettaglio  |
+| -------------------- | ---------- |
+| **_Proprietà:_**     | DASCAL Srl |
+| **_Impresa:_**       | CO E MI    |
+| **_Progettazione:_** | Desmos     |
+| **_Appartamenti:_**  | 110        |
 
 #### Settimo Milanese, Vighignolo, via Don Minzoni
 
@@ -617,10 +697,12 @@ L’ intervento sorge nelle immediate vicinanze della Via Novara, vicino alla ta
 
 Il complesso prevede due lotti: il primo in edilizia convenzionata con il comune di Settimo Milanese per un totale di 120 alloggi; il secondo in edilizia libera per un totale di 122 alloggi, al completamento dell’ intervento verrà realizzata una nuova scuola materna ed un parco che verranno ceduti al comune.
 
-**_Proprietà:_** Alphagreen Srl
-**_Impresa:_** Delta Srl
-**_Progettazione:_** Arch. Signore, Arch. Capponi, Arch. Monti, Arch. Gatti
-**_Appartamenti:_** 242
+| Info                 | Dettaglio                                              |
+| -------------------- | ------------------------------------------------------ |
+| **_Proprietà:_**     | Alphagreen Srl                                         |
+| **_Impresa:_**       | Delta Srl                                              |
+| **_Progettazione:_** | Arch. Signore, Arch. Capponi, Arch. Monti, Arch. Gatti |
+| **_Appartamenti:_**  | 242                                                    |
 
 #### Parabiago, viale Lombardia angolo via E. Fermi
 
@@ -632,10 +714,12 @@ L'intervento è ubicato nelle immediate vicinanze dal centro di Parabiago, in Vi
 
 Il complesso è completamente recintato e dotato di piscina e campo da tennis.
 
-**_Proprietà:_** L4-Sip-ICT
-**_Impresa:_** ICT SpA
-**_Progettazione:_** Arch. Sissa, Arch. Ing. Torretta
-**_Appartamenti:_** 350
+| Info                 | Dettaglio                        |
+| -------------------- | -------------------------------- |
+| **_Proprietà:_**     | L4-Sip-ICT                       |
+| **_Impresa:_**       | ICT SpA                          |
+| **_Progettazione:_** | Arch. Sissa, Arch. Ing. Torretta |
+| **_Appartamenti:_**  | 350                              |
 
 #### Legnano, Via Napoli angolo via Salmoiraghi, zona Sabotino
 
@@ -645,10 +729,12 @@ Il complesso è ubicato nelle immediate vicinanze del centro di Legnano, in via 
 
 L’ottimale distribuzione degli spazi consente diverse soluzioni abitative da 1-2-3-4 locali con ampi balconi, attici con terrazzi, appartamenti al piano terra con giardino privato, tavernette e ampi parcheggi interrati.
 
-**_Proprietà:_** GIG Scarl
-**_Impresa:_** Garantola S.r.l-ICT S.p.A.
-**_Progettazione:_** Arch. G. Tenconi
-**_Appartamenti_**: 160
+| Info                 | Dettaglio                  |
+| -------------------- | -------------------------- |
+| **_Proprietà:_**     | GIG Scarl                  |
+| **_Impresa:_**       | Garantola S.r.l-ICT S.p.A. |
+| **_Progettazione:_** | Arch. G. Tenconi           |
+| **_Appartamenti_**:  | 160                        |
 
 #### Settimo Milanese, Seguro, Via Sandro Pertini
 
@@ -660,10 +746,12 @@ Situato a ridosso del centro storico di Seguro, a pochi minuti sia dalle stazion
 
 Sono stati realizzati nuovi servizi come la scuola elementare, l’asilo nido, la scuola materna, la palestra, il campo da calcio e la chiesa parrocchiale con l’oratorio.
 
-**_Proprietà:_** Simp Srl
-**_Impresa:_** Delta Srl
-**_Progettazione:_** Arch. P. Monti, Arch. A. Monti, Arch. Gatti, Arch. M. Engel
-**_Appartamenti:_** 350
+| Info                 | Dettaglio                                                   |
+| -------------------- | ----------------------------------------------------------- |
+| **_Proprietà:_**     | Simp Srl                                                    |
+| **_Impresa:_**       | Delta Srl                                                   |
+| **_Progettazione:_** | Arch. P. Monti, Arch. A. Monti, Arch. Gatti, Arch. M. Engel |
+| **_Appartamenti:_**  | 350                                                         |
 
 #### Milano, via Lattuada 9
 
@@ -675,10 +763,12 @@ In una delle zone più prestigiose di Milano, adiacente a Porta Romana, nasce la
 
 L’obiettivo dell’intervento è quello di realizzare un nuovo edificio che riproponga l’architettura tradizionale pur conservando, nei particolari costruttivi e nelle tipologie dei materiali, il carattere di un’architettura moderna conforme alle necessità urbanistiche e prestazionali tipiche degli edifici attuali.
 
-**_Proprietà:_** N/A
-**_Impresa:_** Giuma
-**_Progettazione:_** N/A
-**_Appartamenti:_** N/A
+| Info                 | Dettaglio |
+| -------------------- | --------- |
+| **_Proprietà:_**     | N/A       |
+| **_Impresa:_**       | Giuma     |
+| **_Progettazione:_** | N/A       |
+| **_Appartamenti:_**  | N/A       |
 
 #### Milano, Via Maestri Campionesi
 
@@ -688,25 +778,33 @@ Il progetto si caratterizza per l’elegante forma a “T” che contiene tre ed
 
 L’edificio è stato studiato nei minimi dettagli da un équipe di professionisti che collaborano da anni con un impegno importante nei confronti dell’ambiente, introducendo materiali e tecnologie all’avanguardia, garantendo un notevole risparmio economico, riducendo al minimo le emissioni e gli inquinanti nell’aria.
 
-**_Proprietà:_** Borio Mangiarotti
-**_Impresa:_** MR Real Estate
-**_Progettazione:_** Studio Luisa Cortese
-**_Appartamenti:_** 80
+| Info                 | Dettaglio            |
+| -------------------- | -------------------- |
+| **_Proprietà:_**     | Borio Mangiarotti    |
+| **_Impresa:_**       | MR Real Estate       |
+| **_Progettazione:_** | Studio Luisa Cortese |
+| **_Appartamenti:_**  | 80                   |
 
 ### Settore Terziario
 
 #### Ex Sede Sillaro, Livraga, Lodi
 
-**_Proprietà:_** Sillaro Spa
-**_Area:_** mq. 33.000
-**_Superficie coperta:_** mq. 12.000
-**_Anno:_** 1977
+| Info                      | Dettaglio   |
+| ------------------------- | ----------- |
+| **_Proprietà:_**          | Sillaro Spa |
+| **_Area:_**               | mq. 33.000  |
+| **_Superficie coperta:_** | mq. 12.000  |
+| **_Anno:_**               | 1977        |
 
-#### Sedriano, Milano, Via Marie Curie, | Eurowindoor Srl
+#### Sedriano, Milano, Via Marie Curie
 
-**_Proprietà:_** Eurowindoor Srl
-**_Area:_** mq. N/A
-**_Superficie coperta:_** mq. N/A
+##### Eurowindoor
+
+| Info                      | Dettaglio       |
+| ------------------------- | --------------- |
+| **_Proprietà:_**          | Eurowindoor Srl |
+| **_Area:_**               | mq. N/A         |
+| **_Superficie coperta:_** | mq. N/A         |
 
 ### Settore Agricolo
 
@@ -714,43 +812,51 @@ L’edificio è stato studiato nei minimi dettagli da un équipe di professionis
 
 ![Santa Paolina, Avellino](images/projects/santa-paolina-avellino.jpeg)
 
-**_Proprietà:_** Vigna dei Lupi Srl
-**_Area:_** ha. 12
-**_Coltivazione:_** Vigneto
+| Info                | Dettaglio          |
+| ------------------- | ------------------ |
+| **_Proprietà:_**    | Vigna dei Lupi Srl |
+| **_Area:_**         | ha. 12             |
+| **_Coltivazione:_** | Vigneto            |
 
 #### Villaggio Gaudiano, Lavello, Potenza
 
 **_In compartecipazione_**
 
-**_Gestione:_** Piani di Federico Srl
-**_Area:_** ha. 75 irrigui
-**_Coltivazione:_** Mista ad ortaggi
+| Info                | Dettaglio             |
+| ------------------- | --------------------- |
+| **_Gestione:_**     | Piani di Federico Srl |
+| **_Area:_**         | ha. 75 irrigui        |
+| **_Coltivazione:_** | Mista ad ortaggi      |
 
 #### Livraga, Lodi | GDS Agroenergia Srl
 
-**_Proprietà:_** G.D.S. Srl
-**_Area impianto:_** mq. 20.000
-**_Area condotta e coltivata:_** ha. 250
+| Info                             | Dettaglio  |
+| -------------------------------- | ---------- |
+| **_Proprietà:_**                 | G.D.S. Srl |
+| **_Area impianto:_**             | mq. 20.000 |
+| **_Area condotta e coltivata:_** | ha. 250    |
 
 ### In Fase di Sviluppo
 
-_**Nota**: I dati sono aggiornati alla monografia del 2013_
+_**Nota**: dati aggiornati al 2013_
 
-#### Murano, Venezia, Ex vetreria De Majo
+<!-- #### Murano, Venezia, Ex vetreria De Majo
 
 Progetto per il recupero della zona industriale dell’ex vetreria De Majo.
 
 _Note_: NH Hotel Costruito in quest'area
 
-**_Proprietà:_** Campo San Donato Srl
+**_Proprietà:_** Campo San Donato Srl -->
 
 #### Pemba, Mozambico
 
 Resort in fase di realizzazione a Pemba in Mozambico. Iniziativa in collaborazione con partner privati.
 
-**_Direzione Artistica:_** Arch. D. Colombini
-**_Progettazione:_** Studio Di Architettura Studio Associato Ederle
-**_Proprietà:_** Oltremare srl
+| Info                       | Dettaglio                                      |
+| -------------------------- | ---------------------------------------------- |
+| **_Direzione Artistica:_** | Arch. D. Colombini                             |
+| **_Progettazione:_**       | Studio Di Architettura Studio Associato Ederle |
+| **_Proprietà:_**           | Oltremare srl                                  |
 
 ---
 
@@ -768,15 +874,19 @@ Un gruppo di imprenditori e professionisti che operano nei più disparati campi 
 
 Chiesa realizzata con il contributo dell’associazione Fratello Mio ONLUS, presieduta dall’Arch. D. Colombini.
 
-**_Progettazione:_** Arch. D. Colombini
-**_Proprietà:_** Frati Francescani di Gradnici
+| Info                 | Dettaglio                     |
+| -------------------- | ----------------------------- |
+| **_Progettazione:_** | Arch. D. Colombini            |
+| **_Proprietà:_**     | Frati Francescani di Gradnici |
 
 #### Casa Magnificat, Medjugorje, Bosnia Herzegovina
 
 Centro di accoglienza a disposizione delle persone che desiderano vivere un’esperienza nella spiritualità che si è manifestata nel corso di 29 anni di presenza e di messaggi ricevuti dalla Regina della Pace a Medjugorje.
 
-**_Progettazione:_** Arch. D. Colombini
-**_Proprietà:_** Famiglia Lunetti, Pavlovic
+| Info                 | Dettaglio                  |
+| -------------------- | -------------------------- |
+| **_Progettazione:_** | Arch. D. Colombini         |
+| **_Proprietà:_**     | Famiglia Lunetti, Pavlovic |
 
 #### Oasi della Gioia, Civitavecchia, Roma
 
@@ -784,6 +894,8 @@ Centro di accoglienza a disposizione delle persone che desiderano vivere un’es
 
 Casa di accoglienza per giovani e famiglie in difficoltà della Comunità Mariana, Missione Giovani, Civitavecchia.
 
-**_Progettazione:_** Arch. D. Colombini
-**_Proprietà:_** Comunità Mariana Missione Giovani
-**_Referente:_** Padre Sergio Raiteri
+| Info                 | Dettaglio                         |
+| -------------------- | --------------------------------- |
+| **_Progettazione:_** | Arch. D. Colombini                |
+| **_Proprietà:_**     | Comunità Mariana Missione Giovani |
+| **_Referente:_**     | Padre Sergio Raiteri              |
